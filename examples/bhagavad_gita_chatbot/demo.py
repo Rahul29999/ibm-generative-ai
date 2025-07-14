@@ -1,4 +1,4 @@
-# 🕉️ Bhagavad Gita NLP Chatbot using Semantic Search & FAISS
+# Bhagavad Gita NLP Chatbot using Semantic Search & FAISS
 import pandas as pd
 from sentence_transformers import SentenceTransformer
 import faiss
